@@ -4,3 +4,5 @@ __pycache__/
 *.pyc
 .idea/
 .vscode/
+script.py
+script1.py
